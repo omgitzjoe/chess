@@ -5,7 +5,7 @@ It assumes player compliance with playing by the rules. It does ensure that
 proper syntax and coordinates are chosen by the player.
 I wrote this to practice using Kotlin syntax to make a game that I love and enjoy.
 
-[Software Demo Video](https://)
+[Software Demo Video](https://youtu.be/uNoEu6mrzQ4)
 
 I spent roughly 24 hours researching, installing, and coding.
 
@@ -23,7 +23,7 @@ It also assisted in helping me reduce complexity and increase cohesion between f
 # Useful Websites
 - https://kotlinlang.org/docs/
 - https://www.w3schools.com/kotlin/kotlin_syntax.php
-- chatgpt.com
+- https://www.chatgpt.com
 - https://www.jetbrains.com/idea/
 
 # Future Work   
